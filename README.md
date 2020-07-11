@@ -1,2 +1,3 @@
-# princeton Algorithm & Data Structure cource
-Implementation for algorithmes explained in princeton's algorithms cource 
+# Princeton Algorithm & Data Structure cource
+Implementation for algorithms discussed in princeton's algorithm [course](https://algs4.cs.princeton.edu/home/)
+ 
